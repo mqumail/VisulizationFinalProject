@@ -1,5 +1,5 @@
 function getPlayerData(playerName) {
-var aaron=[
+var AlexO=[
     {State:'Apps',freq:{Test: 345, ODIs:30, T20Is:30}},
     {State:'Mins',freq:{Test: 345, ODIs:26, T20Is:19}},
     {State:'Total',freq:{Test: 345,ODIs:812, T20Is:228}},
@@ -1833,7 +1833,7 @@ var JCorndA=[
     {State:'Rating',freq:{Test: 0,ODIs:2, T20Is:0 }}
 ];
 
-var ShaunM=[
+var Shkodran=[
     {State:'Apps',freq:{Test: 77, ODIs:80, T20Is:14}},
     {State:'Mins',freq:{Test: 136, ODIs:78, T20Is:14}},
     {State:'Total',freq:{Test: 14775,ODIs:3733, T20Is:278}},
@@ -1848,7 +1848,7 @@ var ShaunM=[
     {State:'Rating',freq:{Test: 7,ODIs:0, T20Is:0 }}
 ];
 
-var StevenS=[
+var Henrikh=[
     {State:'Apps',freq:{Test: 0, ODIs:4, T20Is:1}},
     {State:'Mins',freq:{Test: 0, ODIs:8, T20Is:1}},
     {State:'Total',freq:{Test: 0,ODIs:627, T20Is:24}},
@@ -1863,7 +1863,7 @@ var StevenS=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var UsmanK=[
+var Alexis=[
     {State:'Apps',freq:{Test: 0, ODIs:20, T20Is:24}},
     {State:'Mins',freq:{Test: 0, ODIs:20, T20Is:24}},
     {State:'Total',freq:{Test: 0,ODIs:1037, T20Is:535}},
@@ -1892,7 +1892,7 @@ var UsmanG=[
     {State:'THI',freq:{Test: 0,ODIs:3, T20Is:0 }},
     {State:'Rating',freq:{Test: 0,ODIs:1, T20Is:0 }}
 ];
-var DavidW=[
+var Pierre=[
     {State:'Apps',freq:{Test: 18, ODIs:70, T20Is:17}},
     {State:'Mins',freq:{Test: 31, ODIs:69, T20Is:17}},
     {State:'Total',freq:{Test: 2718,ODIs:3392, T20Is:366}},
@@ -1907,7 +1907,7 @@ var DavidW=[
     {State:'Rating',freq:{Test: 4,ODIs:0, T20Is:0 }}
 ];
 
-var MitchellM=[
+var Aaron=[
     {State:'Apps',freq:{Test: 34, ODIs:70, T20Is:1}},
     {State:'Mins',freq:{Test: 66, ODIs:68, T20Is:1}},
     {State:'Total',freq:{Test: 5598,ODIs:3259, T20Is:18}},
@@ -1922,7 +1922,7 @@ var MitchellM=[
     {State:'Rating',freq:{Test: 1,ODIs:0, T20Is:0 }}
 ];
 
-var GlennM=[
+var Mesut=[
     {State:'Apps',freq:{Test: 0, ODIs:6, T20Is:6}},
     {State:'Mins',freq:{Test: 0, ODIs:6, T20Is:6}},
     {State:'Total',freq:{Test: 0,ODIs:324, T20Is:144}},
@@ -1937,7 +1937,7 @@ var GlennM=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:1 }}
 ];
 
-var JhyeR=[
+var Nacho=[
     {State:'Apps',freq:{Test: 22, ODIs:36, T20Is:10}},
     {State:'Mins',freq:{Test: 40, ODIs:34, T20Is:10}},
     {State:'Total',freq:{Test: 5103,ODIs:1917, T20Is:228}},
@@ -1952,7 +1952,7 @@ var JhyeR=[
     {State:'Rating',freq:{Test: 2,ODIs:2, T20Is:0 }}
 ];
 
-var MoisesH=[
+var Alexandre=[
     {State:'Apps',freq:{Test: 0, ODIs:59, T20Is:37}},
     {State:'Mins',freq:{Test: 0, ODIs:52, T20Is:33}},
     {State:'Total',freq:{Test: 0,ODIs:1953, T20Is:606}},
@@ -1967,7 +1967,7 @@ var MoisesH=[
     {State:'Rating',freq:{Test: 0,ODIs:1, T20Is:0 }}
 ];
 
-var TravisH=[
+var Laurent=[
     {State:'Apps',freq:{Test: 0, ODIs:20, T20Is:20}},
     {State:'Mins',freq:{Test: 0, ODIs:16, T20Is:12}},
     {State:'Total',freq:{Test: 0,ODIs:559, T20Is:171}},
@@ -1982,7 +1982,7 @@ var TravisH=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var JohnH=[
+var Granit=[
     {State:'Apps',freq:{Test: 0, ODIs:13, T20Is:2}},
     {State:'Mins',freq:{Test: 0, ODIs:13, T20Is:2}},
     {State:'Total',freq:{Test: 0,ODIs:638, T20Is:48}},
@@ -1997,7 +1997,7 @@ var JohnH=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var MushfiqurR=[
+var DavidO=[
     {State:'Apps',freq:{Test: 0, ODIs:33, T20Is:14}},
     {State:'Mins',freq:{Test: 0, ODIs:32, T20Is:14}},
     {State:'Total',freq:{Test: 0,ODIs:1650, T20Is:268}},
@@ -2358,7 +2358,7 @@ var WriddhimanS=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var ViratK=[
+var alexoo=[
     {State:'App',freq:{Test: 36, ODIs:69, T20Is:21}},
     {State:'Mins',freq:{Test: 66, ODIs:67, T20Is:21}},
     {State:'Total',freq:{Test: 6412,ODIs:3550, T20Is:480}},
@@ -4024,43 +4024,43 @@ switch(playerName) {
         break;
 
 
-    case 'Aaron Finch':
-        return aaron;
+    case 'Alex Oxlade Chamberlain':
+        return AlexO;
         break;
-    case 'Shaun Marsh':
-        return ShaunM;
+    case 'Shkodran Mustafi':
+        return Shkodran;
         break;
-    case 'Steven Smith':
-        return StevenS;
+    case 'Henrikh Mkhitaryan':
+        return Henrikh;
         break;
-    case 'Usman Khawaja':
-        return UsmanK;
+    case 'Alexis Sánchez':
+        return Alexis;
         break;
-    case 'David Warner':
-        return DavidW;
+    case 'Pierre-Emerick Aubameyang':
+        return Pierre;
         break;
-    case 'Mitchell Marsh':
-        return MitchellM;
+    case 'Aaron Ramsey':
+        return Aaron;
         break;
-    case 'Glenn Maxwell':
-        return GlennM;
+    case 'Mesut Özil':
+        return Mesut;
         break;
-    case 'Jhye Richardson':
-        return JhyeR;
+    case 'Nacho Monreal':
+        return Nacho;
         break;
-    case 'Moises Henriques':
-        return MoisesH;
+    case 'Alexandre Lacazette':
+        return Alexandre;
         break;
-    case 'Travis Head':
-        return TravisH;
+    case 'Laurent Koscielny':
+        return Laurent;
         break;
-    case 'John Hastings':
-        return JohnH;
+    case 'Granit Xhaka':
+        return Granit;
         break;
 
 
-    case 'Mushfiqur Rahim':
-        return MushfiqurR;
+    case 'David Ospina':
+        return DavidO;
         break;
     case 'Tamim Iqbal':
         return TamimI;
@@ -4135,8 +4135,8 @@ switch(playerName) {
     case 'Wriddhiman Saha':
         return WriddhimanS;
         break;
-    case 'Virat Kohli':
-        return ViratK;
+    case 'Alex Iwobi':
+        return alexoo;
         break;
     case 'Yuvraj Singh':
         return YuvrajS;
