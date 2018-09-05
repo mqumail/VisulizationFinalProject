@@ -78,9 +78,9 @@ Highcharts.chart('container', {
 
 }
 
-function changeClubName(countryName, countryFullName) {
-    window.countryName = countryName;
-    window.countryFullName = countryFullName;
+function changeClubName(clubName, clubFullName) {
+    window.clubName = clubName;
+    window.clubFullName = clubFullName;
     document.getElementById('bottonNavs').style.display = "block";
     document.getElementById('batsmancheckbox').checked = false;
     document.getElementById('bowlercheckbox').checked = false;
