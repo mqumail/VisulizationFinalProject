@@ -1,0 +1,424 @@
+.wrapper {
+     display: flex;
+     flex-direction: column;
+     font-weight: bold;
+     text-align: center;
+}
+
+.header {
+  flex: 1 100%;
+}
+
+.body {
+	flex: 1 0 auto;
+	display: flex;
+}
+
+.vis1 {
+	flex: 1 0 auto;
+	display: flex;
+	border: 1px solid gray;
+}
+
+.leftNav {
+	flex: 0 1 auto;
+	width: 100px;
+	padding-top: 40px;
+	padding-left: 10px;
+	padding-right: 20px;
+	align-self: left;
+}
+
+.empty {
+	flex: 1 0 auto;
+
+}
+.circle {
+	display: inline-block;
+	border-radius: 50%;
+	width: 20;
+	height: 20;
+	background: green;
+}
+
+.visu {
+	flex: 4 0 auto;
+
+}
+
+.highcharts-credits {
+	display: none!important;
+}
+.container {
+	min-width: 420px;
+	max-width: 600px;
+	height: 400px;
+	margin: 0 auto
+}
+
+.bottomNav {
+	padding: 40px;
+	flex: 1 0 auto;
+	padding-right: 140px;
+}
+
+.button {
+	background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.countries {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 100px;
+	align-items: center;
+}
+
+.country {
+  border: solid 1px black;
+  cursor: pointer;
+}
+
+#ausflag {
+	background-image: url('flags/aus.png');
+	border-radius: 50%;
+	margin-top: 20px;
+
+	/* rankings */
+	background-size: 55px;
+	width: 55px;
+	height: 55px;
+}
+
+#afgflag {
+	background-image: url('flags/afg.png');
+	border-radius: 70%;
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 30px;
+	width: 30px;   
+	height: 30px; 
+}
+
+#banflag {
+	background-image: url('flags/ban.png');
+	border-radius: 50%;
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 35px;
+	width: 35px;   
+	height: 35px; 
+}
+
+#engflag {
+	background-image: url('flags/eng.png');
+	border-radius: 50%;
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 65px;
+	width: 65px;   
+	height: 65px; 
+}
+
+#indflag {
+	background-image: url('flags/ind.png');
+	border-radius: 50%;
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px; 
+}
+
+#ireflag {
+	background-image: url('flags/ire.png');
+	border-radius: 50%;
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 20px;
+	width: 20px;   
+	height: 20px; 
+}
+
+#newflag {
+	background-image: url('flags/new.png');
+	border-radius: 50%;
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 60px;
+	width: 60px;   
+	height: 60px; 
+}
+
+#pakflag {
+	background-image: url('flags/pak.png');
+	border-radius: 50%;
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 50px;
+	width: 50px;   
+	height: 50px; 
+}
+
+#souflag {
+	background-image: url('flags/sou.png');
+	border-radius: 50%;
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 60px;
+	width: 60px;   
+	height: 60px; 
+}
+
+#sriflag {
+	background-image: url('flags/sri.png');
+	border-radius: 50%;
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 45px;
+	width: 45px;   
+	height: 45px; 
+}
+
+#wesflag {
+	background-image: url('flags/wes.png');
+	border-radius: 50%;
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 40px;
+	width: 40px;   
+	height: 40px; 
+}
+
+#zimflag {
+	background-image: url('flags/zim.png');
+	border-radius: 50%;
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 25px;
+	width: 25px;   
+	height: 25px; 
+}
+
+.club {
+  cursor: pointer;
+}
+
+#arsenalLogo {
+	background-image: url('logo/arsenal-logo-vector.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px;
+}
+
+#bournemouthLogo {
+	background-image: url('logo/Bournemouth-logo.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px;
+}
+
+#brightonHoveAlbionLogo {
+	background-image: url('logo/Brighton_&_Hove_Albion_logo.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px;
+}
+
+#burnleyLogo {
+	background-image: url('logo/Burnley_FC_badge.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px;
+}
+
+#chelseaLogo {
+	background-image: url('logo/chelsea-logo-vector.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px;
+}
+
+#crystalPalaceLogo {
+	background-image: url('logo/Crystal_Palace_FC_logo.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px;
+}
+
+#evertonLogo {
+	background-image: url('logo/everton-fc-logo-vector.jpg');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px;
+}
+
+#huddersfieldTownLogo {
+	background-image: url('logo/Huddersfield_Town_FC_logo.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 107px;
+}
+
+#leicesterCityLogo {
+	background-image: url('logo/leicester-city-vector-logo.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px;
+}
+
+#liverpoolLogo {
+	background-image: url('logo/liverpool-logo-vector.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px;
+}
+
+#manchesterCityLogo {
+	background-image: url('logo/manchester-city-logo.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px;
+}
+
+#manchesterUnitedLogo {
+	background-image: url('logo/manchester-united-logo-vector.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px;
+}
+
+#newcastleUnitedLogo {
+	background-image: url('logo/newcastle-united-logo-preview.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px;
+}
+
+#southamptonLogo {
+	background-image: url('logo/southampton-f.c-logo-vector.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px;
+}
+
+#stokeCityLogo {
+	background-image: url('logo/Stoke_City_FC.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 80px;
+}
+
+#swanseaCityLogo {
+	background-image: url('logo/Swansea_City_AFC_logo.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 66px;
+}
+
+#tottenhamHotspursLogo {
+	background-image: url('logo/tottenham-hotspur-fc-logo-vector.jpg');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px;
+}
+
+#watfordLogo {
+	background-image: url('logo/watford-fc-vector-logo.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px;
+}
+
+#westBromwichAlbionLogo {
+	background-image: url('logo/west-brom-logo-vector.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px;
+}
+
+#westHamUnitedLogo {
+	background-image: url('logo/west-ham-united-fc-logo-preview.png');
+	margin-top: 20px;
+
+/* rankings */
+	background-size: 70px;
+	width: 70px;   
+	height: 70px;
+}

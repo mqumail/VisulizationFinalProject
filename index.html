@@ -1,0 +1,246 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <script src="lib\w3.js"></script>
+    <link rel="stylesheet" href="./styles.css">
+    <title> <Football Player Statistics Visualization</title>
+</head>
+<body>
+<div class="wrapper">
+    <div class="header">
+        <h1>English Premier League Player Statistics - 2017/2018</h1>
+    </div>
+    <div id="body1" class="body">
+        <div class="leftNav">
+            <div class="title"> EPL Teams </div>
+            <div class="countries">
+				<div class="club" id="arsenalLogo" onclick="changeClubName('arsenal', 'Arsenal Football Club')"></div>
+				<div class="club" id="bournemouthLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="brightonHoveAlbionLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="burnleyLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="chelseaLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="crystalPalaceLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="evertonLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="huddersfieldTownLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="leicesterCityLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="liverpoolLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="manchesterCityLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="manchesterUnitedLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="newcastleUnitedLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="southamptonLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="stokeCityLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="swanseaCityLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="tottenhamHotspursLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="watfordLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="westBromwichAlbionLogo" onclick="changeCountryName('ind', 'India')"></div>
+				<div class="club" id="westHamUnitedLogo" onclick="changeCountryName('ind', 'India')"></div>
+				
+                <div class="country" id="indflag" onclick="changeCountryName('ind', 'India')"></div>
+                <div class="country" id="engflag" onclick="changeCountryName('eng', 'England')"></div>
+                <div class="country" id="souflag" onclick="changeCountryName('sou', 'South Africa')"></div>
+                <div class="country" id="newflag" onclick="changeCountryName('new', 'New Zeland')"></div>
+                <div class="country" id="ausflag" onclick="changeCountryName('aus', 'Australia')"> </div>
+                <div class="country" id="pakflag" onclick="changeCountryName('pak', 'Pakistan')"></div>
+                <div class="country" id="sriflag" onclick="changeCountryName('sri', 'Srilanka')"></div>
+                <div class="country" id="wesflag" onclick="changeCountryName('wes', 'West Indies')"></div>
+                <div class="country" id="banflag" onclick="changeCountryName('ban', 'Bangladesh')"></div>
+                <div class="country" id="afgflag" onclick="changeCountryName('afg', 'Afghanistan')"></div>                            
+                <div class="country" id="zimflag" onclick="changeCountryName('zim', 'Zimbabwe')"></div>
+                <div class="country" id="ireflag" onclick="changeCountryName('ire', 'Ireland')"></div>  
+            </div>
+        </div>
+        <div class="visu">
+            <div id="playerName"></div>
+            <div id="container" class="container"></div>
+            <div class="bottomNav" id="bottonNavs">
+            <input type="radio" name="playerType" id="batsmancheckbox" class="button" onclick="openBatsMan()"> Batsman</input>
+            <input type="radio" name="playerType" id="bowlercheckbox" class="button" onclick="openBowlers()"> Bowlers </input>
+    </div>
+        </div>
+        <div class="empty">
+            
+        </div>
+    </div>
+   
+<div style="display:none;">
+
+
+
+
+
+
+ <table id="ind" border="0" cellspacing="0" cellpadding="0">
+        <tr nowrap bgcolor="#CCCCFF">
+            <th colspan="9" class="hdr">Table of Frequencies (percent)</th>
+        </tr>
+        <tr nowrap bgcolor="#CCCCFF">
+            <th class="freq">Direction</th>
+            <th class="freq">Test</th>
+            <th class="freq">OneDay</th>
+            <th class="freq">T20</th>
+        </tr>           
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Kuldeep Yadav</td>
+            <td class="data">119</td>
+            <td class="data">113</td>
+            <td class="data">00</td>
+        </tr>
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Mohammed Shami</td>
+            <td class="data">155</td>
+            <td class="data">223</td>
+            <td class="data">00</td>
+        </tr>
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Ashish Nehra</td>
+            <td class="data">65</td>
+            <td class="data">261</td>
+            <td class="data">11</td>
+        </tr>
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Ishant Sharma</td>
+            <td class="data">83</td>
+            <td class="data">273</td>
+            <td class="data">18</td>
+        </tr>
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Jayant Yadav</td>
+            <td class="data">335</td>
+            <td class="data">21</td>
+            <td class="data">00</td>
+        </tr>
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Jasprit Bumrah</td>
+            <td class="data">00</td>
+            <td class="data">148</td>
+            <td class="data">16</td>
+        </tr>
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Bhuvneshwar Kumar</td>
+            <td class="data">207</td>
+            <td class="data">250</td>
+            <td class="data">13</td>
+        </tr>
+        
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Umesh Yadav</td>
+            <td class="data">128</td>
+            <td class="data">249</td>
+            <td class="data">00</td>
+        </tr>
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Yuzvendra Chahal</td>
+            <td class="data">00</td>
+            <td class="data">81</td>
+            <td class="data">00</td>
+        </tr>
+        
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Amit Mishra</td>
+            <td class="data">194</td>
+            <td class="data">165</td>
+            <td class="data">02</td>
+        </tr>
+
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Shikhar Dhawan</td>
+            <td class="data">612</td>
+            <td class="data">733</td>
+            <td class="data">382</td>
+        </tr>
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Wriddhiman Saha</td>
+            <td class="data">516</td>
+            <td class="data">176</td>
+            <td class="data">00</td>
+        </tr>
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Virat Kohli</td>
+            <td class="data">806</td>
+            <td class="data">887</td>
+            <td class="data">826</td>
+        </tr>
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Yuvraj Singh</td>
+            <td class="data">506</td>
+            <td class="data">424</td>
+            <td class="data">466</td>
+        </tr>
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Cheteshwar Pujara</td>
+            <td class="data">876</td>
+            <td class="data">114</td>
+            <td class="data">00</td>
+        </tr>
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Ravindra Jadeja</td>
+            <td class="data">486</td>
+            <td class="data">429</td>
+            <td class="data">55</td>
+        </tr>
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Murali Vijay</td>
+            <td class="data">588</td>
+            <td class="data">278</td>
+            <td class="data">198</td>
+        </tr>
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Dinesh Karthik</td>
+            <td class="data">461</td>
+            <td class="data">278</td>
+            <td class="data">126</td>
+        </tr>
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">MS Dhoni</td>
+            <td class="data">662</td>
+            <td class="data">749</td>
+            <td class="data">493</td>
+        </tr>
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Ajinkya Rahane</td>
+            <td class="data">760</td>
+            <td class="data">608</td>
+            <td class="data">240</td>
+        </tr>
+        <tr nowrap bgcolor="#DDDDDD">
+            <td class="dir">Lokesh Rahul</td>
+            <td class="data">761</td>
+            <td class="data">323</td>
+            <td class="data">599</td>
+        </tr>
+    </table>
+    <div w3-include-html="data\ind.html"></div>
+    <div w3-include-html="data\aus.html"></div>
+    <div w3-include-html="data\pak.html"></div>
+    <div w3-include-html="data\afg.html"></div>
+    
+    <div w3-include-html="data\eng.html"></div>
+    <div w3-include-html="data\sou.html"></div>
+    <div w3-include-html="data\sri.html"></div>
+    <div w3-include-html="data\wes.html"></div>
+    <div w3-include-html="data\zim.html"></div>
+    <div w3-include-html="data\ire.html"></div>
+    <div w3-include-html="data\ban.html"></div>
+    <div w3-include-html="data\new.html"></div>
+</div>
+</div>
+    <script type="text/javascript" src="lib\jquery.min.js"></script>
+    <script type="text/javascript" src="lib\highcharts.js"></script>
+    <script type="text/javascript" src="lib\highcharts-more.js"></script>
+    <script type="text/javascript" src="lib\data.js"></script>
+    <script type="text/javascript" src="lib\exporting.js"></script>
+    <script src="lib\d3.v3.min.js"></script>
+    <script type="text/javascript" src="data\playerRecords.js"></script>
+    <script type="text/javascript" src="functions.js"></script>
+    <script type="text/javascript" src="functions2.js"></script>
+<script>
+w3.includeHTML();
+
+</script>
+<script type="text/javascript">
+    $( document ).ready(function() {
+    changeCountryName('ind', 'India');  
+});
+</script>
+</body></html>
