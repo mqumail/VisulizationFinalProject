@@ -224,7 +224,7 @@ var taskin=[
     {State:'Rating',freq:{Test: 0,ODIs:1, T20Is:0 }}
 ];
 
-var jake=[
+var ABC=[
     {State:'Apps',freq:{Test: 3, ODIs:14, T20Is:0}},
     {State:'Mins',freq:{Test: 4, ODIs:14, T20Is:0}},
     {State:'Total',freq:{Test: 456,ODIs:737, T20Is:0}},
@@ -3680,8 +3680,8 @@ switch(playerName) {
     case 'Taskin Ahmed':
         return taskin;
         break;
-    case 'Jake Ball':
-        return jake;
+    case 'ABC':
+        return ABC;
         break;
     case 'Stuart Broad':
         return stuart;
