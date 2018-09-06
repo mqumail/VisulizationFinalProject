@@ -2012,7 +2012,7 @@ var DavidO=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var TamimI=[
+var Sead=[
     {State:'Apps',freq:{Test: 0, ODIs:68, T20Is:46}},
     {State:'Mins',freq:{Test: 0, ODIs:66, T20Is:42}},
     {State:'Total',freq:{Test: 0,ODIs:3284, T20Is:856}},
@@ -2027,7 +2027,7 @@ var TamimI=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var NasirH=[
+var AlexI=[
     {State:'Apps',freq:{Test: 1, ODIs:46, T20Is:26}},
     {State:'Mins',freq:{Test: 2, ODIs:44, T20Is:25}},
     {State:'Total',freq:{Test: 125,ODIs:2139, T20Is:522}},
@@ -2042,7 +2042,7 @@ var NasirH=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var mahmudullah=[
+var JackW=[
     {State:'Apps',freq:{Test: 0, ODIs:13, T20Is:26}},
     {State:'Mins',freq:{Test: 0, ODIs:12, T20Is:22}},
     {State:'Total',freq:{Test: 0,ODIs:543, T20Is:390}},
@@ -2057,7 +2057,7 @@ var mahmudullah=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var ImrulK=[
+var HéctorB=[
     {State:'Apps',freq:{Test: 0, ODIs:13, T20Is:26}},
     {State:'Mins',freq:{Test: 0, ODIs:12, T20Is:22}},
     {State:'Total',freq:{Test: 0,ODIs:543, T20Is:390}},
@@ -2072,7 +2072,7 @@ var ImrulK=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var MominulH=[
+var CalumC=[
     {State:'Apps',freq:{Test: 0, ODIs:18, T20Is:0}},
     {State:'Mins',freq:{Test: 0, ODIs:17, T20Is:0}},
     {State:'Total',freq:{Test: 0,ODIs:878, T20Is:0}},
@@ -2087,7 +2087,7 @@ var MominulH=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var MohammadMi=[
+var PetrC=[
     {State:'Apps',freq:{Test: 0, ODIs:22, T20Is:19}},
     {State:'Mins',freq:{Test: 0, ODIs:21, T20Is:13}},
     {State:'Total',freq:{Test: 0,ODIs:1044, T20Is:174}},
@@ -2102,7 +2102,7 @@ var MohammadMi=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var SaPtyrR=[
+var RobH=[
     {State:'Apps',freq:{Test: 0, ODIs:4, T20Is:8}},
     {State:'Mins',freq:{Test: 0, ODIs:4, T20Is:8}},
     {State:'Total',freq:{Test: 0,ODIs:186, T20Is:174}},
@@ -2117,7 +2117,7 @@ var SaPtyrR=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var SoumyaS=[
+var AinsleyM=[
     {State:'Apps',freq:{Test: 8, ODIs:16, T20Is:6}},
     {State:'Mins',freq:{Test: 16, ODIs:30, T20Is:6}},
     {State:'Total',freq:{Test: 1945,ODIs:1643, T20Is:132}},
@@ -4058,15 +4058,14 @@ switch(playerName) {
         return Granit;
         break;
 
-
     case 'David Ospina':
         return DavidO;
         break;
-    case 'Tamim Iqbal':
-        return TamimI;
+    case 'Sead Kolasinac':
+        return Sead;
         break;
-    case 'Nasir Hossain':
-        return NasirH;
+    case 'Alex Iwobi':
+        return AlexI;
         break;
     case 'Mahmudullah':
         return mahmudullah;
@@ -4138,26 +4137,26 @@ switch(playerName) {
     case 'Alex Iwobi':
         return alexoo;
         break;
-    case 'Yuvraj Singh':
-        return YuvrajS;
+    case 'Jack Wilshere':
+        return JackW;
         break;
-    case 'Cheteshwar Pujara':
-        return CheteshwarP;
+    case 'Héctor Bellerín':
+        return HéctorB;
         break;
-    case 'Ravindra Jadeja':
-        return RavindraJ;
+    case 'Calum Chambers':
+        return CalumC;
         break;
-    case 'Murali Vijay':
-        return MuraliV;
+    case 'Petr Cech':
+        return PetrC;
         break;
-    case 'Dinesh Karthik':
-        return DineshK;
+    case 'Ainsley Maitland-Niles':
+        return AinsleyM;
         break;
     case 'MS Dhoni':
         return MSDhoni;
         break;
-    case 'Ajinkya Rahane':
-        return AjinkyaR;
+    case 'Per Mertesacker':
+        return PerM;
         break;
     case 'Lokesh Rahul':
         return LokeshR;
