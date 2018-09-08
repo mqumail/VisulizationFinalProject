@@ -2,6 +2,8 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-deep-purple.css">
     <script src="lib\w3.js"></script>
     <link rel="stylesheet" href="./styles.css">
     <title> <Football Player Statistics Visualization</title>
@@ -9,10 +11,16 @@
 <body>
 <div class="wrapper">
     <div class="header">
-        <h1>English Premier League Player Statistics - 2017/2018</h1>
+		<div class="w3-theme-dark">
+			<img src="logo/PremierLeagueLogo.png" alt="Premier League" style="width:200px;height:200px;">
+		</div>
+		<div class="w3-container w3-text-theme">
+			<h1>English Premier League Player Statistics - 2017/2018</h1>
+		</div>
     </div>
     <div id="body1" class="body">
-        <div class="leftNav">
+	<div class="w3-theme-l4">
+        <div class="leftNav" style="overflow-y:scroll; height:475px; width: 150px;">
             <div class="title"> EPL Teams </div>
             <div class="countries">
 				<div class="club" id="arsenalLogo" onclick="changeCountryName('ind', 'India')"></div>
@@ -52,6 +60,7 @@
 				-->
             </div>
         </div>
+		</div>
         <div class="visu">
             <div id="playerName"></div>
             <div id="container" class="container"></div>
@@ -228,6 +237,7 @@
     <div w3-include-html="data\new.html"></div>
 </div>
 </div>
+
     <script type="text/javascript" src="lib\jquery.min.js"></script>
     <script type="text/javascript" src="lib\highcharts.js"></script>
     <script type="text/javascript" src="lib\highcharts-more.js"></script>
