@@ -2132,7 +2132,7 @@ var AinsleyM=[
     {State:'Rating',freq:{Test: 0,ODIs:2, T20Is:0 }}
 ];
 
-var LitonD=[
+var SimonF=[
     {State:'Apps',freq:{Test: 0, ODIs:37, T20Is:18}},
     {State:'Mins',freq:{Test: 0, ODIs:36, T20Is:18}},
     {State:'Total',freq:{Test: 0,ODIs:1639, T20Is:373}},
@@ -2147,7 +2147,7 @@ var LitonD=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var SubashiFC=[
+var SteveC=[
     {State:'Apps',freq:{Test: 15, ODIs:39, T20Is:14}},
     {State:'Mins',freq:{Test: 25, ODIs:37, T20Is:14}},
     {State:'Total',freq:{Test: 2571,ODIs:1784, T20Is:295}},
@@ -2163,7 +2163,7 @@ var SubashiFC=[
 ];
 
 
-var EoinM=[
+var NathanA=[
     {State:'Apps',freq:{Test: 31, ODIs:38, T20Is:7}},
     {State:'Mins',freq:{Test: 58, ODIs:37, T20Is:7}},
     {State:'Total',freq:{Test: 6557,ODIs:1952, T20Is:168}},
@@ -2178,7 +2178,7 @@ var EoinM=[
     {State:'Rating',freq:{Test: 5,ODIs:3, T20Is:0 }}
 ];
 
-var MoeenA=[
+var JoshuaK=[
     {State:'Apps',freq:{Test: 68, ODIs:13, T20Is:1}},
     {State:'Mins',freq:{Test: 130, ODIs:13, T20Is:1}},
     {State:'Total',freq:{Test: 15952,ODIs:720, T20Is:6}},
@@ -2193,7 +2193,7 @@ var MoeenA=[
     {State:'Rating',freq:{Test: 10,ODIs:0, T20Is:0 }}
 ];
 
-var DavidWi=[
+var JuniorS=[
     {State:'Apps',freq:{Test: 1, ODIs:67, T20Is:24}},
     {State:'Mins',freq:{Test: 2, ODIs:65, T20Is:24}},
     {State:'Total',freq:{Test: 166,ODIs:3116, T20Is:515}},
@@ -2208,7 +2208,7 @@ var DavidWi=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:1 }}
 ];
 
-var JonnyB=[
+var LewisC=[
     {State:'Apps',freq:{Test: 6, ODIs:14, T20Is:25}},
     {State:'Mins',freq:{Test: 9, ODIs:14, T20Is:23}},
     {State:'Total',freq:{Test: 880,ODIs:603, T20Is:476}},
@@ -2223,7 +2223,7 @@ var JonnyB=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var AlexH=[
+var AdamS=[
     {State:'Apps',freq:{Test: 0, ODIs:0, T20Is:1}},
     {State:'Mins',freq:{Test: 0, ODIs:0, T20Is:1}},
     {State:'Total',freq:{Test: 0,ODIs:0, T20Is:21}},
@@ -2238,7 +2238,7 @@ var AlexH=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var JosB =[
+var AndrewS =[
     {State:'Apps',freq:{Test: 8, ODIs:4, T20Is:5}},
     {State:'Mins',freq:{Test: 11, ODIs:1, T20Is:4}},
     {State:'Total',freq:{Test: 846,ODIs:12, T20Is:66}},
@@ -2253,7 +2253,7 @@ var JosB =[
     {State:'Rating',freq:{Test: 7,ODIs:5, T20Is:0 }}
 ];
 
-var JoeR=[
+var RyanF=[
     {State:'Apps',freq:{Test: 36, ODIs:179, T20Is:54}},
     {State:'Mins',freq:{Test: 51, ODIs:179, T20Is:53}},
     {State:'Total',freq:{Test: 5990,ODIs:8951, T20Is:1139}},
@@ -2268,7 +2268,7 @@ var JoeR=[
     {State:'Rating',freq:{Test: 0,ODIs:1, T20Is:0 }}
 ];
 
-var DawidM=[
+var JordonI=[
     {State:'Apps',freq:{Test: 10, ODIs:56, T20Is:11}},
     {State:'Mins',freq:{Test: 17, ODIs:56, T20Is:11}},
     {State:'Total',freq:{Test: 1506,ODIs:2342, T20Is:220}},
@@ -2283,7 +2283,7 @@ var DawidM=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var JasonR=[
+var CharlieD=[
     {State:'Apps',freq:{Test: 14, ODIs:4, T20Is:0}},
     {State:'Mins',freq:{Test: 26, ODIs:4, T20Is:0}},
     {State:'Total',freq:{Test: 3321,ODIs:222, T20Is:0}},
@@ -2298,7 +2298,7 @@ var JasonR=[
     {State:'Rating',freq:{Test: 37,ODIs:0, T20Is:0 }}
 ];
 
-var AlastairC=[
+var DanG=[
     {State:'Apps',freq:{Test: 4, ODIs:29, T20Is:15}},
     {State:'Mins',freq:{Test: 8, ODIs:28, T20Is:13}},
     {State:'Total',freq:{Test: 738,ODIs:1269, T20Is:269}},
@@ -2313,7 +2313,7 @@ var AlastairC=[
     {State:'Rating',freq:{Test: 0,ODIs:1, T20Is:0 }}
 ];
 
-var BenSt=[
+var CallumW=[
     {State:'Apps',freq:{Test: 3, ODIs:14, T20Is:0}},
     {State:'Mins',freq:{Test: 4, ODIs:14, T20Is:0}},
     {State:'Total',freq:{Test: 456,ODIs:737, T20Is:0}},
@@ -2328,7 +2328,7 @@ var BenSt=[
     {State:'Rating',freq:{Test: 0,ODIs:1, T20Is:0 }}
 ];
 
-var ShikharD=[
+var AsmirB=[
     {State:'Apps',freq:{Test: 108, ODIs:121, T20Is:56}},
     {State:'Mins',freq:{Test: 198, ODIs:121, T20Is:55}},
     {State:'Total',freq:{Test: 22177,ODIs:6109, T20Is:1173}},
@@ -2343,7 +2343,7 @@ var ShikharD=[
     {State:'Rating',freq:{Test: 15,ODIs:1, T20Is:0 }}
 ];
 
-var WriddhimanS=[
+var HarryA=[
     {State:'Apps',freq:{Test: 10, ODIs:19, T20Is:2}},
     {State:'Mins',freq:{Test: 19, ODIs:19, T20Is:2}},
     {State:'Total',freq:{Test: 1863,ODIs:997, T20Is:42}},
@@ -2374,7 +2374,7 @@ var alexoo=[
 ];
 
 
-var YuvrajS=[
+var JermainD=[
     {State:'Apps',freq:{Test: 8, ODIs:3, T20Is:25}},
     {State:'Mins',freq:{Test: 16, ODIs:31, T20Is:25}},
     {State:'Total',freq:{Test: 1530,ODIs:1532, T20Is:534}},
@@ -2389,7 +2389,7 @@ var YuvrajS=[
     {State:'Rating',freq:{Test: 0,ODIs:1, T20Is:0 }}
 ];
 
-var CheteshwarP=[
+var MarcP=[
     {State:'Apps',freq:{Test: 3, ODIs:1, T20Is:0}},
     {State:'Mins',freq:{Test: 6, ODIs:1, T20Is:0}},
     {State:'Total',freq:{Test: 404,ODIs:42, T20Is:0}},
@@ -2404,7 +2404,7 @@ var CheteshwarP=[
     {State:'Rating',freq:{Test: 1,ODIs:0, T20Is:0 }}
 ];
 
-var RavindraJ=[
+var LysM=[
     {State:'Apps',freq:{Test: 128, ODIs:194, T20Is:19}},
     {State:'Mins',freq:{Test: 240, ODIs:191, T20Is:19}},
     {State:'Total',freq:{Test: 28042,ODIs:9584, T20Is:422}},
@@ -2419,7 +2419,7 @@ var RavindraJ=[
     {State:'Rating',freq:{Test: 7,ODIs:5, T20Is:0 }}
 ];
 
-var MuraliV=[
+var TyroneM=[
     {State:'Apps',freq:{Test: 13, ODIs:57, T20Is:13}},
     {State:'Mins',freq:{Test: 25, ODIs:57, T20Is:13}},
     {State:'Total',freq:{Test: 287,ODIs:2789, T20Is:2659}},
@@ -2434,7 +2434,7 @@ var MuraliV=[
     {State:'Rating',freq:{Test: 1,ODIs:0, T20Is:0 }}
 ];
 
-var DineshK=[
+var BenikA=[
     {State:'Apps',freq:{Test: 18, ODIs:63, T20Is:8}},
     {State:'Mins',freq:{Test: 34, ODIs:62, T20Is:8}},
     {State:'Total',freq:{Test: 2950,ODIs:3024, T20Is:162}},
@@ -2449,7 +2449,7 @@ var DineshK=[
     {State:'Rating',freq:{Test: 2,ODIs:2, T20Is:0 }}
 ];
 
-var MSDhoni=[
+var EmersonH=[
     {State:'Apps',freq:{Test: 3, ODIs:1, T20Is:4}},
     {State:'Mins',freq:{Test: 5, ODIs:1, T20Is:4}},
     {State:'Total',freq:{Test: 526,ODIs:48, T20Is:84}},
@@ -2464,7 +2464,7 @@ var MSDhoni=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var AjinkyaR=[
+var SollyM=[
     {State:'Apps',freq:{Test: 10, ODIs:49, T20Is:23}},
     {State:'Mins',freq:{Test: 18, ODIs:47, T20Is:21}},
     {State:'Total',freq:{Test: 2544,ODIs:2452, T20Is:414}},
@@ -2479,7 +2479,7 @@ var AjinkyaR=[
     {State:'Rating',freq:{Test: 1,ODIs:1, T20Is:0 }}
 ];
 
-var LokeshR=[
+var TomerH=[
     {State:'Apps',freq:{Test: 2, ODIs:6, T20Is:1}},
     {State:'Mins',freq:{Test: 4, ODIs:5, T20Is:1}},
     {State:'Total',freq:{Test: 348,ODIs:286, T20Is:24}},
@@ -2494,7 +2494,7 @@ var LokeshR=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var WPorterfield=[
+var GaëtanB=[
     {State:'Apps',freq:{Test: 25, ODIs:49, T20Is:7}},
     {State:'Mins',freq:{Test: 48, ODIs:48, T20Is:77}},
     {State:'Total',freq:{Test: 4671,ODIs:2465, T20Is:142}},
@@ -2509,7 +2509,7 @@ var WPorterfield=[
     {State:'Rating',freq:{Test: 2,ODIs:0, T20Is:0 }}
 ];
 
-var KevinO=[
+var GlennM=[
     {State:'Apps',freq:{Test: 17, ODIs:120, T20Is:26}},
     {State:'Mins',freq:{Test: 29, ODIs:120, T20Is:26}},
     {State:'Total',freq:{Test: 3447,ODIs:5751, T20Is:566}},
@@ -2524,7 +2524,7 @@ var KevinO=[
     {State:'Rating',freq:{Test: 0,ODIs:2, T20Is:0 }}
 ];
 
-var GaryW=[
+var MarkusS=[
     {State:'Apps',freq:{Test: 77, ODIs:80, T20Is:14}},
     {State:'Mins',freq:{Test: 136, ODIs:78, T20Is:14}},
     {State:'Total',freq:{Test: 14775,ODIs:3733, T20Is:278}},
@@ -2539,7 +2539,7 @@ var GaryW=[
     {State:'Rating',freq:{Test: 7,ODIs:0, T20Is:0 }}
 ];
 
-var EdJoyce=[
+var ConnorG=[
     {State:'Apps',freq:{Test: 0, ODIs:4, T20Is:1}},
     {State:'Mins',freq:{Test: 0, ODIs:8, T20Is:1}},
     {State:'Total',freq:{Test: 0,ODIs:627, T20Is:24}},
@@ -2554,7 +2554,7 @@ var EdJoyce=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var JohnMooney=[
+var EzequielS=[
     {State:'Apps',freq:{Test: 0, ODIs:20, T20Is:24}},
     {State:'Mins',freq:{Test: 0, ODIs:20, T20Is:24}},
     {State:'Total',freq:{Test: 0,ODIs:1037, T20Is:535}},
@@ -2569,7 +2569,7 @@ var JohnMooney=[
     {State:'Rating',freq:{Test: 0,ODIs:1, T20Is:0 }}
 ];
 
-var PStirling=[
+var LiamR=[
     {State:'Apps',freq:{Test: 18, ODIs:70, T20Is:17}},
     {State:'Mins',freq:{Test: 31, ODIs:69, T20Is:17}},
     {State:'Total',freq:{Test: 2718,ODIs:3392, T20Is:366}},
@@ -2584,7 +2584,7 @@ var PStirling=[
     {State:'Rating',freq:{Test: 4,ODIs:0, T20Is:0 }}
 ];
 
-var AndrewP=[
+var UweH=[
     {State:'Apps',freq:{Test: 34, ODIs:70, T20Is:1}},
     {State:'Mins',freq:{Test: 66, ODIs:68, T20Is:1}},
     {State:'Total',freq:{Test: 5598,ODIs:3259, T20Is:18}},
@@ -2599,7 +2599,7 @@ var AndrewP=[
     {State:'Rating',freq:{Test: 1,ODIs:0, T20Is:0 }}
 ];
 
-var SThompson=[
+var LeonardoU=[
     {State:'Apps',freq:{Test: 0, ODIs:6, T20Is:6}},
     {State:'Mins',freq:{Test: 0, ODIs:6, T20Is:6}},
     {State:'Total',freq:{Test: 0,ODIs:324, T20Is:144}},
@@ -2614,7 +2614,7 @@ var SThompson=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:1 }}
 ];
 
-var ABalbirnie=[
+var BeramK=[
     {State:'Apps',freq:{Test: 22, ODIs:36, T20Is:10}},
     {State:'Mins',freq:{Test: 40, ODIs:34, T20Is:10}},
     {State:'Total',freq:{Test: 5103,ODIs:1917, T20Is:228}},
@@ -2629,7 +2629,7 @@ var ABalbirnie=[
     {State:'Rating',freq:{Test: 2,ODIs:2, T20Is:0 }}
 ];
 
-var NBrien=[
+var IsaiahB=[
     {State:'Apps',freq:{Test: 0, ODIs:59, T20Is:37}},
     {State:'Mins',freq:{Test: 0, ODIs:52, T20Is:33}},
     {State:'Total',freq:{Test: 0,ODIs:1953, T20Is:606}},
@@ -2644,7 +2644,7 @@ var NBrien=[
     {State:'Rating',freq:{Test: 0,ODIs:1, T20Is:0 }}
 ];
 
-var JAnderson=[
+var JürgenL=[
     {State:'Apps',freq:{Test: 0, ODIs:20, T20Is:20}},
     {State:'Mins',freq:{Test: 0, ODIs:16, T20Is:12}},
     {State:'Total',freq:{Test: 0,ODIs:559, T20Is:171}},
@@ -2659,7 +2659,7 @@ var JAnderson=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var RossTaylor=[
+var JamieM=[
     {State:'Apps',freq:{Test: 345, ODIs:30, T20Is:30}},
     {State:'Mins',freq:{Test: 345, ODIs:26, T20Is:19}},
     {State:'Total',freq:{Test: 345,ODIs:812, T20Is:228}},
@@ -2674,7 +2674,7 @@ var RossTaylor=[
     {State:'Rating',freq:{Test: 345,ODIs:0, T20Is:0 }}
 ];
 
-var KaneWilliamson=[
+var SamB=[
     {State:'Apps',freq:{Test: 36, ODIs:68, T20Is:22}},
     {State:'Mins',freq:{Test: 68, ODIs:68, T20Is:22}},
     {State:'Total',freq:{Test: 7355,ODIs:3359, T20Is:566}},
@@ -2689,7 +2689,7 @@ var KaneWilliamson=[
     {State:'Rating',freq:{Test: 7,ODIs:5, T20Is:0 }}
 ];
 
-var MartinGuptill=[
+var ShaneD=[
     {State:'Apps',freq:{Test: 4, ODIs:31, T20Is:18}},
     {State:'Mins',freq:{Test: 7, ODIs:31, T20Is:18}},
     {State:'Total',freq:{Test: 906,ODIs:1566, T20Is:414}},
@@ -2704,7 +2704,7 @@ var MartinGuptill=[
     {State:'Rating',freq:{Test: 1,ODIs:0, T20Is:0 }}
 ];
 
-var CoreyAnderson=[
+var LewisD=[
     {State:'Apps',freq:{Test: 0, ODIs:0, T20Is:5}},
     {State:'Mins',freq:{Test: 0, ODIs:0, T20Is:5}},
     {State:'Total',freq:{Test: 0,ODIs:0, T20Is:110}},
@@ -2719,7 +2719,7 @@ var CoreyAnderson=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var TomLatham=[
+var PascalG=[
     {State:'Apps',freq:{Test: 0, ODIs:24, T20Is:10}},
     {State:'Mins',freq:{Test: 0, ODIs:24, T20Is:10}},
     {State:'Total',freq:{Test: 0,ODIs:1162, T20Is:210}},
@@ -2734,7 +2734,7 @@ var TomLatham=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var JamesNeesham=[
+var MarcA=[
     {State:'Apps',freq:{Test: 31, ODIs:38, T20Is:7}},
     {State:'Mins',freq:{Test: 58, ODIs:37, T20Is:7}},
     {State:'Total',freq:{Test: 6557,ODIs:1952, T20Is:168}},
@@ -2749,7 +2749,7 @@ var JamesNeesham=[
     {State:'Rating',freq:{Test: 5,ODIs:3, T20Is:0 }}
 ];
 
-var ColinMunro=[
+var ChrisW=[
     {State:'Apps',freq:{Test: 68, ODIs:13, T20Is:1}},
     {State:'Mins',freq:{Test: 130, ODIs:13, T20Is:1}},
     {State:'Total',freq:{Test: 15952,ODIs:720, T20Is:6}},
@@ -2764,7 +2764,7 @@ var ColinMunro=[
     {State:'Rating',freq:{Test: 10,ODIs:0, T20Is:0 }}
 ];
 
-var LukeRonchi=[
+var StevenD=[
     {State:'Apps',freq:{Test: 1, ODIs:67, T20Is:24}},
     {State:'Mins',freq:{Test: 2, ODIs:65, T20Is:24}},
     {State:'Total',freq:{Test: 166,ODIs:3116, T20Is:515}},
@@ -2779,7 +2779,7 @@ var LukeRonchi=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:1 }}
 ];
 
-var HenryNicholls=[
+var CharlieT=[
     {State:'Apps',freq:{Test: 6, ODIs:14, T20Is:25}},
     {State:'Mins',freq:{Test: 9, ODIs:14, T20Is:23}},
     {State:'Total',freq:{Test: 880,ODIs:603, T20Is:476}},
@@ -2794,7 +2794,7 @@ var HenryNicholls=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var MitchellSantner=[
+var JackC=[
     {State:'Apps',freq:{Test: 0, ODIs:0, T20Is:1}},
     {State:'Mins',freq:{Test: 0, ODIs:0, T20Is:1}},
     {State:'Total',freq:{Test: 0,ODIs:0, T20Is:21}},
@@ -2809,7 +2809,7 @@ var MitchellSantner=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var deGrandhomme=[
+var ScottA=[
     {State:'Apps',freq:{Test: 8, ODIs:4, T20Is:5}},
     {State:'Mins',freq:{Test: 11, ODIs:1, T20Is:4}},
     {State:'Total',freq:{Test: 846,ODIs:12, T20Is:66}},
@@ -2824,7 +2824,7 @@ var deGrandhomme=[
     {State:'Rating',freq:{Test: 7,ODIs:5, T20Is:0 }}
 ];
 
-var MohammadHa=[
+var AaronL=[
     {State:'Apps',freq:{Test: 36, ODIs:179, T20Is:54}},
     {State:'Mins',freq:{Test: 51, ODIs:179, T20Is:53}},
     {State:'Total',freq:{Test: 5990,ODIs:8951, T20Is:1139}},
@@ -2839,7 +2839,7 @@ var MohammadHa=[
     {State:'Rating',freq:{Test: 0,ODIs:1, T20Is:0 }}
 ];
 
-var MisbahHaq=[
+var AshleyB=[
     {State:'Apps',freq:{Test: 10, ODIs:56, T20Is:11}},
     {State:'Mins',freq:{Test: 17, ODIs:56, T20Is:11}},
     {State:'Total',freq:{Test: 1506,ODIs:2342, T20Is:220}},
@@ -2854,7 +2854,7 @@ var MisbahHaq=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var KamranAkmal=[
+var TomH=[
     {State:'Apps',freq:{Test: 14, ODIs:4, T20Is:0}},
     {State:'Mins',freq:{Test: 26, ODIs:4, T20Is:0}},
     {State:'Total',freq:{Test: 3321,ODIs:222, T20Is:0}},
@@ -2869,7 +2869,7 @@ var KamranAkmal=[
     {State:'Rating',freq:{Test: 37,ODIs:0, T20Is:0 }}
 ];
 
-var AzharAli=[
+var SamV=[
     {State:'Apps',freq:{Test: 4, ODIs:29, T20Is:15}},
     {State:'Mins',freq:{Test: 8, ODIs:28, T20Is:13}},
     {State:'Total',freq:{Test: 738,ODIs:1269, T20Is:269}},
@@ -2884,7 +2884,7 @@ var AzharAli=[
     {State:'Rating',freq:{Test: 0,ODIs:1, T20Is:0 }}
 ];
 
-var SarfrazAhmed=[
+var AshleyW=[
     {State:'Apps',freq:{Test: 3, ODIs:14, T20Is:0}},
     {State:'Mins',freq:{Test: 4, ODIs:14, T20Is:0}},
     {State:'Total',freq:{Test: 456,ODIs:737, T20Is:0}},
@@ -2899,7 +2899,7 @@ var SarfrazAhmed=[
     {State:'Rating',freq:{Test: 0,ODIs:1, T20Is:0 }}
 ];
 
-var BabarAzam=[
+var JeffH=[
     {State:'Apps',freq:{Test: 108, ODIs:121, T20Is:56}},
     {State:'Mins',freq:{Test: 198, ODIs:121, T20Is:55}},
     {State:'Total',freq:{Test: 22177,ODIs:6109, T20Is:1173}},
@@ -2914,7 +2914,7 @@ var BabarAzam=[
     {State:'Rating',freq:{Test: 15,ODIs:1, T20Is:0 }}
 ];
 
-var SharjeelKhan=[
+var GeorgesK=[
     {State:'Apps',freq:{Test: 10, ODIs:19, T20Is:2}},
     {State:'Mins',freq:{Test: 19, ODIs:19, T20Is:2}},
     {State:'Total',freq:{Test: 1863,ODIs:997, T20Is:42}},
@@ -2929,7 +2929,7 @@ var SharjeelKhan=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var AhmedShehzad=[
+var NahkiW=[
     {State:'Apps',freq:{Test: 36, ODIs:69, T20Is:21}},
     {State:'Mins',freq:{Test: 66, ODIs:67, T20Is:21}},
     {State:'Total',freq:{Test: 6412,ODIs:3550, T20Is:480}},
@@ -2945,7 +2945,7 @@ var AhmedShehzad=[
 ];
 
 
-var AsadShafiq=[
+var DwightM=[
     {State:'Apps',freq:{Test: 8, ODIs:3, T20Is:25}},
     {State:'Mins',freq:{Test: 16, ODIs:31, T20Is:25}},
     {State:'Total',freq:{Test: 1530,ODIs:1532, T20Is:534}},
@@ -2960,7 +2960,7 @@ var AsadShafiq=[
     {State:'Rating',freq:{Test: 0,ODIs:1, T20Is:0 }}
 ];
 
-var ShoaibMalik=[
+var JonathanW=[
     {State:'Apps',freq:{Test: 3, ODIs:1, T20Is:0}},
     {State:'Mins',freq:{Test: 6, ODIs:1, T20Is:0}},
     {State:'Total',freq:{Test: 404,ODIs:42, T20Is:0}},
@@ -2975,7 +2975,7 @@ var ShoaibMalik=[
     {State:'Rating',freq:{Test: 1,ODIs:0, T20Is:0 }}
 ];
 
-var YounisKhan=[
+var JamesT=[
     {State:'Apps',freq:{Test: 128, ODIs:194, T20Is:19}},
     {State:'Mins',freq:{Test: 240, ODIs:191, T20Is:19}},
     {State:'Total',freq:{Test: 28042,ODIs:9584, T20Is:422}},
@@ -2990,7 +2990,7 @@ var YounisKhan=[
     {State:'Rating',freq:{Test: 7,ODIs:5, T20Is:0 }}
 ];
 
-var HashimAmla=[
+var KevinL=[
     {State:'Apps',freq:{Test: 13, ODIs:57, T20Is:13}},
     {State:'Mins',freq:{Test: 25, ODIs:57, T20Is:13}},
     {State:'Total',freq:{Test: 287,ODIs:2789, T20Is:2659}},
@@ -3005,7 +3005,7 @@ var HashimAmla=[
     {State:'Rating',freq:{Test: 1,ODIs:0, T20Is:0 }}
 ];
 
-var QuintondeKock=[
+var BenM=[
     {State:'Apps',freq:{Test: 18, ODIs:63, T20Is:8}},
     {State:'Mins',freq:{Test: 34, ODIs:62, T20Is:8}},
     {State:'Total',freq:{Test: 2950,ODIs:3024, T20Is:162}},
@@ -3020,7 +3020,7 @@ var QuintondeKock=[
     {State:'Rating',freq:{Test: 2,ODIs:2, T20Is:0 }}
 ];
 
-var FafuPlessis=[
+var RobbieB=[
     {State:'Apps',freq:{Test: 3, ODIs:1, T20Is:4}},
     {State:'Mins',freq:{Test: 5, ODIs:1, T20Is:4}},
     {State:'Total',freq:{Test: 526,ODIs:48, T20Is:84}},
@@ -3035,7 +3035,7 @@ var FafuPlessis=[
     {State:'Rating',freq:{Test: 0,ODIs:0, T20Is:0 }}
 ];
 
-var ABdeVilliers=[
+var JohannB=[
     {State:'Apps',freq:{Test: 10, ODIs:49, T20Is:23}},
     {State:'Mins',freq:{Test: 18, ODIs:47, T20Is:21}},
     {State:'Total',freq:{Test: 2544,ODIs:2452, T20Is:414}},
@@ -4152,190 +4152,190 @@ switch(playerName) {
     case 'Ainsley Maitland-Niles':
         return AinsleyM;
         break;
-    case 'MS Dhoni':
-        return MSDhoni;
+    case 'Simon Francis':
+        return SimonF;
         break;
-    case 'Per Mertesacker':
-        return PerM;
+    case 'Steve Cook':
+        return SteveC;
         break;
-    case 'Lokesh Rahul':
-        return LokeshR;
+    case 'Nathan Aké':
+        return NathanA;
         break;
-    case 'William Porterfield':
-        return WPorterfield;
+    case 'Joshua King':
+        return JoshuaK;
         break;
-    case 'Kevin Brien':
-        return KevinO;
+    case 'Junior Stanislas':
+        return JuniorS;
         break;
-    case 'Gary Wilson':
-        return GaryW;
+    case 'Lewis Cook':
+        return LewisC;
         break;
-    case 'Ed Joyce':
-        return EdJoyce;
+    case 'Adam Smith':
+        return AdamS;
         break;
-    case 'John Mooney':
-        return JohnMooney;
+    case 'Andrew Surman':
+        return AndrewS;
         break;
-    case 'Paul Stirling':
-        return PStirling;
+    case 'Ryan Fraser':
+        return RyanF;
         break;
-    case 'Andrew Poynter':
-        return AndrewP;
+    case 'Jordon Ibe':
+        return JordonI;
         break;
-    case 'Stuart Thompson ':
-        return SThompson ;
+    case 'Charlie Daniels':
+        return CharlieD ;
         break;
-    case 'Andy Balbirnie':
-        return ABalbirnie;
+    case 'Dan Gosling':
+        return DanG;
         break;
-    case 'Niall OBrien':
-        return NBrien;
+    case 'Callum Wilson':
+        return CallumW;
         break;
-    case 'John Anderson':
-        return JAnderson;
-        break;
-
-
-    case 'Ross Taylor':
-        return RossTaylor;
-        break;
-    case 'Kane Williamson':
-        return KaneWilliamson;
-        break;
-    case 'Martin Guptill':
-        return MartinGuptill;
-        break;
-    case 'Corey Anderson':
-        return CoreyAnderson;
-        break;
-    case 'Tom Latham':
-        return TomLatham;
-        break;
-    case 'James Neesham':
-        return JamesNeesham;
-        break;
-    case 'Colin Munro':
-        return ColinMunro;
-        break;
-    case 'Luke Ronchi':
-        return LukeRonchi;
-        break;
-    case 'Henry Nicholls':
-        return HenryNicholls;
-        break;
-    case 'Mitchell Santner':
-        return MitchellSantner;
-        break;
-    case 'Colin Grandhomme':
-        return deGrandhomme;
-        break;
-    case 'Mohammad Hafeez':
-        return MohammadHa;
-        break;
-    case 'MisbahulHaq':
-        return MisbahHaq;
-        break;
-    case 'Kamran Akmal':
-        return KamranAkmal;
-        break;
-    case 'Azhar Ali':
-        return AzharAli;
-        break;
-    case 'Sarfraz Ahmed':
-        return SarfrazAhmed;
-        break;
-    case 'Babar Azam':
-        return BabarAzam;
-        break;
-    case 'Sharjeel Khan':
-        return SharjeelKhan;
-        break;
-    case 'Ahmed Shehzad':
-        return AhmedShehzad;
-        break;
-    case 'Asad Shafiq':
-        return AsadShafiq;
-        break;
-    case 'Shoaib Malik':
-        return ShoaibMalik;
-        break;
-    case 'Younis Khan':
-        return YounisKhan;
-        break;
-    case 'Hashim Amla':
-        return HashimAmla;
-        break;
-    case 'Quinton deKock':
-        return QuintondeKock;
-        break;
-    case 'Faf duPlessis':
-        return FafuPlessis;
-        break;
-    case 'AB deVilliers':
-        return ABdeVilliers;
-        break;
-    case 'David Miller':
-        return DavidMiller;
-        break;
-    case 'Jean PaulDuminy':
-        return JeanPaulDuminy;
-        break;
-    case 'Wayne Parnell':
-        return WayneParnell;
-        break;
-    case 'Chris Morris':
-        return ChrisMorris;
-        break;
-    case 'Mangaliso Mosehle':
-        return MangalisoMosehle;
-        break;
-    case 'Stephen Cook':
-        return StephenCook;
-        break;
-    case 'Temba Bavuma':
-        return TembaBavuma;
+    case 'Asmir Begovic':
+        return AsmirB;
         break;
 
 
+    case 'Harry Arter':
+        return HarryA;
+        break;
+    case 'Jermain Defoe':
+        return JermainD;
+        break;
+    case 'Marc Pugh':
+        return MarcP;
+        break;
+    case 'Lys Mousset':
+        return LysM;
+        break;
+    case 'Tyrone Mings':
+        return TyroneM;
+        break;
+    case 'Benik Afobe':
+        return BenikA;
+        break;
+    case 'Emerson Hyndman':
+        return EmersonH;
+        break;
+    case 'Solly March':
+        return SollyM;
+        break;
+    case 'Tomer Hemed':
+        return TomerH;
+        break;
+    case 'Gaëtan Bong':
+        return GaëtanB;
+        break;
+    case 'Glenn Murray':
+        return GlennM;
+        break;
+    case 'Markus Suttner':
+        return MarkusS;
+        break;
+    case 'Connor Goldson':
+        return ConnorG;
+        break;
+    case 'Ezequiel Schelotto':
+        return EzequielS;
+        break;
+    case 'Liam Rosenio':
+        return LiamR;
+        break;
+    case 'Uwe Hünemeier':
+        return UweH;
+        break;
+    case 'Leonardo Ullo':
+        return LeonardoU;
+        break;
+    case 'Beram Kayal':
+        return BeramK;
+        break;
+    case 'Isaiah Brown':
+        return IsaiahB;
+        break;
+    case 'Jürgen Locadia':
+        return JürgenL;
+        break;
+    case 'Jamie Murphy':
+        return JamieM;
+        break;
+    case 'Sam Baldock':
+        return SamB;
+        break;
+    case 'Shane Duffy':
+        return ShaneD;
+        break;
+    case 'Lewis Dunk':
+        return LewisD;
+        break;
+    case 'Pascal Groß':
+        return PascalG;
+        break;
+    case 'Marc Albrighton':
+        return MarcA;
+        break;
+    case 'Chris Wood':
+        return ChrisW;
+        break;
+    case 'Steven Defour':
+        return StevenD;
+        break;
+    case 'Charlie Taylor':
+        return CharlieT;
+        break;
+    case 'Jack Cork':
+        return JackC;
+        break;
+    case 'Scott Arfield':
+        return ScottA;
+        break;
+    case 'Aaron Lennon':
+        return AaronL;
+        break;
+    case 'Ashley Barnes':
+        return AshleyB;
+        break;
 
-    case 'Niroshan Dickwella':
-        return NiroshanDickwella;
+
+
+    case 'Tom Heaton':
+        return TomH;
         break;
-    case 'Dhananjaya deSilva':
-        return DhananjayadeSilva;
+    case 'Sam Vokes':
+        return SamV;
         break;
-    case 'Asela Gunaratne':
-        return AselaGunaratne;
+    case 'Ashley Westwood':
+        return AshleyW;
         break;
-    case 'Chamara Kapugedera':
-        return ChamaraKapugedera;
+    case 'Jeff Hendrick':
+        return JeffH;
         break;
-    case 'Upul Tharanga':
-        return UpulTharanga;
+    case 'Georges-Kévin Nkoudou':
+        return GeorgesK;
         break;
-    case 'Dinesh Chandimal':
-        return DineshChandimal;
+    case 'Nahki Wells':
+        return NahkiW;
         break;
-    case 'Danushka Gunathilaka':
-        return DanushkaGunathilaka;
+    case 'Dwight McNeil':
+        return DwightM;
         break;
-    case 'Dimuth Karunaratne':
-        return DimuthKarunaratne;
+    case 'Jonathan Walters':
+        return JonathanW;
         break;
-    case 'Angelo Appshews':
-        return AngeloAppshews;
+    case 'James Tarkowski':
+        return JamesT;
         break;
-    case 'Lahiru Thirimanne':
-        return LahiruThirimanne;
+    case 'Kevin Long':
+        return KevinL;
         break;
-    case 'Kusal Perera':
-        return KusalPerera;
+    case 'Ben Mee':
+        return BenM;
         break;
-    case 'Carlos Brathwaite':
-        return CarlosBrathwaite;
+    case 'Robbie Brady':
+        return RobbieB;
         break;
-    case 'Roston Chase':
-        return RostonChase;
+    case 'Johann Berg Gudmundsson':
+        return JohannB;
         break;
     case 'Kieran Powell':
         return KieranPowell;
